@@ -4,8 +4,8 @@
 <h2>A Bit about me:</h2><br>
                 🔭 I'm a <strong>Full Stack Developer</strong><br>
 <!--                 ⚡ I am also Github's <strong><em>"Arctic Code Vault Contributor"</em></strong>.<br> -->
-                ⚛️ I’m currently onto <strong>"Full-Stack Web-Development"</strong> using the <strong>MEAN</strong><em> stack(Mongodb, ExpressJs, Angular, NodeJs)</em>.<br>
-                😄 Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner using Java.<br><br>
+                ⚛️ I’m currently onto <strong>"Full-Stack Web-Development"</strong> using the <strong>MEAN</strong><em> stack(Mongodb, ExpressJs, Angular, NodeJs)</em> and <em>Spring Boot and Microservices</em>.<br>
+                😄 Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner using Java and have handy knowledge on version-control GIT.<br><br>
                 <!--👯 Coding has changed my perception of the world. It's not just about Apps. Learning to code provided me with the <i>problem-solving skills</i> and ways to communicate with others on a more technical level.<br><br> -->
                 
 <!-- Most Languages Used <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Canis-Lupus1&layout=compact&hide=html&theme=radical" alt="1Canis-Lupus1" /> -->
